@@ -8,7 +8,7 @@ In the first video, you can observe the complete process of producing a sample p
 Each production step is executed sequentially, starting with the formation of an appropriate team.
 Using the automated planning approach, an executable orchestration is generated, which transitions the system to a new state for the next production step.
 
-In the second video, you can see the real system executing an example orchestration with actual robots and carts.
+In the second video [Videos/Real-Cell.mp4](Videos/Real-Cell.mp4), you can see the real system executing an example orchestration with actual robots and carts.
 Some parameters required for this process (e.g., trajectories, positions) are manually determined, but the orchestration itself is derived from our described framework.
 
 ## Example Files for the Evaluated Automated Planning
